@@ -21,3 +21,7 @@ nav {
        font-weight: 500;
        color: white;
 }
+
+nav a:visited {
+       color: white;
+}
