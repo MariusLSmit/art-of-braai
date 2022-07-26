@@ -7,6 +7,7 @@ body{
 #logo {
        font-family: Homemade Apple, Arial;
        color: white;
+       margin-left: 20px;
 }
 
 nav {
@@ -24,4 +25,27 @@ nav {
 
 nav a:visited {
        color: white;
+}
+
+img {
+       width: max-content;
+       height: 500px;
+       margin-left: 400px;
+       margin-bottom: 50px;
+       border: 2px solid black;
+       border-radius: 10px;
+       animation-name: img-zoom;
+       animation-duration: 5s;
+       animation-fill-mode: forwards;
+}
+
+@keyframes img-zoom {
+       from{
+              transform: scale(1);
+
+       }
+       to{ 
+              transform: scale(1.1);
+
+       }
 }
