@@ -20,11 +20,27 @@ nav {
        font-family: Italianno;
        font-size: x-large;
        font-weight: 500;
+       }
+ul{
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+}
+li {
+       display: inline;
+       float: left;
+       display: block;
+       background-color: black;
+       padding: 8px;
+}
+
+li a {
        color: white;
 }
 
-nav a:visited {
-       color: white;
+li a:hover {
+       background-color: brown;
 }
 
 img {
@@ -37,15 +53,4 @@ img {
        animation-name: img-zoom;
        animation-duration: 5s;
        animation-fill-mode: forwards;
-}
-
-@keyframes img-zoom {
-       from{
-              transform: scale(1);
-
-       }
-       to{ 
-              transform: scale(1.1);
-
-       }
 }
