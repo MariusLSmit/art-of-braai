@@ -113,10 +113,19 @@ img {
 /*Video*/
 
 .yt-video {
-       width: 1280px;
-       height: 720px;
-       margin-left: auto;
-       margin-right: auto;
+       position: relative;
+       padding-bottom: 50%;
+       padding-top: 25px;
+       height: 0px;
+}
 
+.yt-video iframe {
+       position: absolute;
+       left: 0px;
+       right: 0px;
+       top: 0px;
+       bottom: 0px;
+       height: 100%;
+       width: 100%;
 }
 
