@@ -6,49 +6,57 @@ body{
 }
 #logo {
        font-family: Homemade Apple, Arial;
-       color: white;
-       margin-left: 20px;
+       color: #e7680d;
+       background-color: #251319;
+       padding: 30px;
+       margin: auto;
 }
 
-nav {
-       position: absolute;
-       top: 42px;
-       right: 16px;
-       width: 200px;
-       letter-spacing: 1px;
-       word-spacing: 10px;
+aside {
        font-family: Italianno;
        font-size: x-large;
-       font-weight: 500;
-       }
+       text-align: center;
+       padding: 20px;
+       margin: auto;
+       background-color: #e7680d;
+}
+
+/* Navigation Bar */
+
 ul{
        list-style-type: none;
        margin: 0;
        padding: 0;
        overflow: hidden;
+       background-color: #251319;
 }
 li {
        display: inline;
-       float: left;
-       display: block;
-       background-color: black;
-       padding: 8px;
 }
 
 li a {
-       color: white;
+       color: #e7680d;
+       font-family: Italianno;
+       font-size: x-large;
+       float: right;
+       text-align: center;
+       display: block;
+       padding: 8px;
 }
 
 li a:hover {
-       background-color: brown;
+       background-color: #e7680d;
+       color: #251319;
 }
+
+/*Three clickable images for tutorial videos*/
 
 img {
        width: max-content;
        height: 500px;
        margin-left: 400px;
        margin-bottom: 50px;
-       border: 2px solid black;
+       border: 2px solid #e7680d;
        border-radius: 10px;
        animation-name: img-zoom;
        animation-duration: 5s;
