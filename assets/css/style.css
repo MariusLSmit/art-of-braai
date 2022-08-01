@@ -62,6 +62,8 @@ img {
        margin-left: auto;
        margin-right: auto;
        width: 50%;
+       border: 5px ;
+       border-radius: 5px;
 }
 
 /*Image hover fade with text*/
@@ -145,6 +147,9 @@ footer {
 
 .social-links li {
        display: inline;
+       color: #e7680d;
+       font-family: Homemade Apple, Arial;
+       font-size: large;
 }
 
 .social-links i { 
