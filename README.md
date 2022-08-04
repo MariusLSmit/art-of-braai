@@ -1,29 +1,44 @@
-<h1>Art of braai</h1>
+# Art of braai
 
 Art of braai is a website that not only teaches you, but also inspires you to make a lovely and tradional boerewors roll. This is basically a South African "Hot dog" which consists of a beef sausage, bread roll and relish and all made the traditional way. "Braai" is also the South African term for barbeque and this would be the traditional way to cook the sausage. View the live site here "Insert site link here".
 
-<h2>Features</h2>
+## Features
 
-<h3>Navigation Bar</h3>
+### Navigation Bar
 
-<ul>
-<li>Contains the links to the Home, Video and Contact pages</li>
-<li>This will assist with easy navigation between pages</li>
-</ul>
+* Contains the links to the Home, Video and Contact pages
+* This will assist with easy navigation between pages
 
-<h3>Logo</h3>
+### Logo
 
-<ul>
-<li>Logo has been placed on the right hand side </li>
-<li></li>
-</ul>
+* Logo has been placed on the right hand side
 
-<h2>UX/UI</h2>
+## Wireframes
+<br>
+Page 1 (Home Page)
 
-<h2>Testing</h2>
+<img src="/workspace/art-of-braai/assets/img/Page 1 - Mobile.png">
 
-<h2>Deployment</h2>
+<img src="/workspace/art-of-braai/assets/img/Page 1 - Mobile.png">
+<br>
+Page 2 (Video Page)
+<br>
+<img src="/workspace/art-of-braai/assets/img/Page 2 - Desktop.png">
 
-<h2>Citation</h2>
+<img src="/workspace/art-of-braai/assets/img/Page 2 - Mobile.png">
+<br>
+Page 3 (Contact Page)
+<br>
+<img src="/workspace/art-of-braai/assets/img/Page 2 - Mobile.png">
 
-<h2>Future features</h2>
+<img SRC="/workspace/art-of-braai/assets/img/Page 2 - Mobile.png">
+
+## UX/UI
+
+## Testing
+
+## Deployment
+
+## Citation
+
+## Future features
