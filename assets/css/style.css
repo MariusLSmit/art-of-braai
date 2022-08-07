@@ -15,6 +15,8 @@ body{
        margin: auto;
 }
 
+/* Greeting bar */
+
 aside {
        font-family: Italianno;
        font-size: x-large;
@@ -114,21 +116,12 @@ img {
 
 /*Video*/
 
-.yt-video {
+iframe {
        position: relative;
-       padding-bottom: 50%;
-       padding-top: 25px;
-       height: 0px;
-}
+       left: 250px ;
+       margin-top: 25px;
+       margin-bottom: 25px;
 
-.yt-video iframe {
-       position: absolute;
-       left: 0px;
-       right: 0px;
-       top: 0px;
-       bottom: 0px;
-       height: 100%;
-       width: 100%;
 }
 
 /* Footer */
