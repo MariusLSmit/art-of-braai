@@ -66,6 +66,7 @@ img {
        width: 50%;
        border: 5px ;
        border-radius: 5px;
+       flex: 1 0 auto;
 }
 
 /*Image hover fade with text*/
@@ -129,6 +130,7 @@ iframe {
 footer {
        width: 100%;
        height: 60px;
+       flex-shrink: 0;
        background-color: #251319;
 }
 
