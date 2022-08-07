@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Italianno&family=Splash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Italianno&family=Lobster&display=swap');
 
 body{
        background-image: url(/assets/img/medium-fire-photo-1920\ x\ 2400.jpg);
@@ -10,7 +10,6 @@ body{
 #logo {
        font-family: Homemade Apple, Arial;
        color: #e7680d;
-       background-color: #251319;
        padding: 30px;
        margin: auto;
 }
@@ -33,7 +32,7 @@ aside {
        margin: 0;
        padding: 0;
        overflow: hidden;
-       background-color: #251319;
+       
 }
 
 .nav-bar li {
@@ -48,11 +47,19 @@ aside {
        text-align: center;
        display: block;
        padding: 8px;
+       text-decoration: none;
 }
 
 .nav-bar li a:hover {
        background-color: #e7680d;
        color: #251319;
+}
+
+/*Hero Images*/
+
+#hero-image {
+             max-width: 100%;
+             width: 100%;
 }
 
 /*Three clickable images for tutorial videos*/
@@ -111,8 +118,10 @@ img {
 .text {
        background-color: #e7680d;
        color: #251319;
-       font-size: 20px;
+       font-size: 25px;
        padding: 16px 32px;
+       font-family: lobster;
+       text-decoration: none;
 }
 
 /*Video*/
@@ -122,6 +131,7 @@ iframe {
        left: 250px ;
        margin-top: 25px;
        margin-bottom: 25px;
+       
 
 }
 
