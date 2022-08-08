@@ -172,3 +172,40 @@ footer {
 
 /*Contact Us*/
 
+input[type=text], select, textarea {
+       width: 100%;
+       padding: 12px;
+       border: 1px solid #251319;
+       border-radius: 4px;
+       box-sizing: border-box;
+       margin-top: 6px;
+       margin-bottom: 16px;
+       resize: vertical;
+}
+
+input[type=submit] {
+       background-color: #251319;
+       color: #e7680d;
+       padding: 12px 20px;
+       border: none;
+       border-radius: 4px;
+       cursor: pointer;
+}
+
+input[type=submit]:hover {
+       background-color: #e7680d;
+       color: #251319;
+}
+
+.container {
+       border-radius: 5px;
+       background: transparent;
+       padding: 20px;
+       width: 50%;
+}
+
+.container h2, .fname, .lname, .email, #comment {
+           font-family: italianno;
+           font-size: xx-large;
+           color: #e7680d;
+}

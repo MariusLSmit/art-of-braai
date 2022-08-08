@@ -36,22 +36,27 @@
 
 <!--Contact Us-->
 
-<h2>Contact Us!</h2>
 
-<form action="" class="flex-container">
-<label for="fname">First Name</label>
+
+<div class="container">
+<h2>Contact Us!</h2>
+<form action="">
+<label for="fname" class="fname">First Name</label>
 <input type="text" id="fname" name="first_name" class="text-input" required>
 
-<label for="lname">Last Name</label>
+<label for="lname" class="lname">Last Name</label>
 <input type="text" id="lname" name="last_name" class="text-input" required>
 
-<label for="email">Email Address</label>
+<label for="email" class="email">Email Address</label>
 <input type="email" id="email" name="email_address" class="text-input" required>
+<br><br>
 
 <label id="comment" for="comment">Comment</label>
-<textarea name="message" rows="30" cols="10" placeholder="Leave a comment!"></textarea>
-<button type="submit">SUBMIT</button>
+<textarea id="subject" name="subject" rows="30" cols="10" placeholder="Leave a comment!"></textarea>
+
+<input type="submit" value="submit">
 </form>
+</div>
 
 <!--Social media links-->
 
