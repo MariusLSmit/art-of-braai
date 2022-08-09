@@ -172,7 +172,7 @@ footer {
 
 /*Contact Us*/
 
-input[type=text], select, textarea {
+input[type=text], input[type=email], select, textarea {
        width: 100%;
        padding: 12px;
        border: 1px solid #251319;
@@ -199,13 +199,21 @@ input[type=submit]:hover {
 
 .container {
        border-radius: 5px;
-       background: transparent;
+       background-color: #00101a;
        padding: 20px;
        width: 50%;
+       margin-left: 25%;
+       margin-top: 20px;
 }
 
-.container h2, .fname, .lname, .email, #comment {
+ .fname, .lname, .email, #comment {
            font-family: italianno;
            font-size: xx-large;
+           color: #e7680d;
+}
+
+.container h2 {
+       font-family: italianno;
+           font-size: 40px;
            color: #e7680d;
 }
