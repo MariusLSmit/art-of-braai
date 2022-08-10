@@ -14,7 +14,7 @@ body{
        margin: auto;
 }
 
-/* Greeting bar */
+/* Greeting bar (will become hero slideshow */
 
 aside {
        font-family: Italianno;
@@ -127,13 +127,18 @@ img {
 /*Video*/
 
 iframe {
-       margin-top: 25px;
-       margin-bottom: 25px;
+       position: absolute;
+       width: 100%;
+       height: 100%;
 }
 
-.video-container {
-         padding-left: 13%;
-         padding-right: 13%;
+#yt-video1, #yt-video2, #yt-video3 {
+    width: 80%;
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 /* Footer */
@@ -200,7 +205,6 @@ button[type=submit]:hover {
 }
 
 .container {
-       border-radius: 5px;
        background-color: #00101a;
        padding: 20px;
        width: 50%;
@@ -219,3 +223,7 @@ button[type=submit]:hover {
            font-size: 40px;
            color: #e7680d;
 }
+
+/* Media Queries*/
+
+/* Large and Medium screens - 1200px wide and down*/
