@@ -160,6 +160,12 @@ footer {
        flex-shrink: 0;
 }
 
+/* Sticky Footer */
+
+.footer, .push {
+       height: 50px;
+}
+
 /* Social media links */
 
 .social-links {
@@ -233,14 +239,4 @@ button[type=submit]:hover {
        font-family: italianno;
            font-size: 40px;
            color: #e7680d;
-}
-
-/* Media Queries*/
-
-/* Medium screens - 950px wide and down*/
-
-@media screen and (max-width: 950px) {
-       #yt-video1, #yt-video2, #yt-video3 {
-              width: 
-          }
 }
