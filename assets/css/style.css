@@ -240,3 +240,38 @@ button[type=submit]:hover {
            font-size: 40px;
            color: #e7680d;
 }
+
+/* Media Queries */
+
+/* Mobile Phones  320px — 480px */
+
+@media screen and (max-width: 480px ) {
+
+       .fade-box {
+              position: relative;
+              width: 100%;
+              margin-left: auto;
+              margin-right: auto;
+              padding-top: 10px;
+       }
+       
+       .text {
+              background-color: #e7680d;
+              display: flex;
+              flex-direction: column;
+              color: #251319;
+              font-size: 20px;
+              padding: 5px 32px;
+              font-family: lobster;
+              text-decoration: none;   
+       }
+       .social-links i { 
+              font-size: 160%; 
+              margin: 5px;
+              padding: 5px;
+              color: #e7680d;
+     }
+}
+
+/* Tablets 481px — 768px */
+
