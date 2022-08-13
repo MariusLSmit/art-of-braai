@@ -9,9 +9,11 @@ body{
 
 #logo {
        font-family: Homemade Apple, Arial;
+       font-size: 50px;
        color: #e7680d;
        padding: 30px;
        margin: auto;
+       text-shadow: 3px 3px 6px #b63a0e;
 }
 
 /* Greeting bar (will become hero slideshow */
@@ -42,17 +44,19 @@ aside {
 .nav-bar li a {
        color: #e7680d;
        font-family: Italianno;
-       font-size: xx-large;
+       font-size: 35px;
        float: right;
        text-align: center;
        display: block;
        padding: 8px;
        text-decoration: none;
+       text-shadow: 4px 4px 6px #b63a0e;
 }
 
 .nav-bar li a:hover {
        background-color: #e7680d;
        color: #251319;
+       text-shadow: 4px 4px 6px #00101a;
 }
 
 /*Hero Images*/
