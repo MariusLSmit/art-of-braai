@@ -82,6 +82,7 @@ animation-fill-mode: forwards;
 
        color: #00101a;
        background-color: #e7680d;
+       text-shadow: 3px 3px 6px #00101a;
        padding: 30px;
        width: 100%;
 }
