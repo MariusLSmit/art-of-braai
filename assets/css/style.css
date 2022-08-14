@@ -25,11 +25,11 @@ body{
        position: relative;
        padding-top: 50px;
        padding-bottom: 100px;
-       border: 5px #e7680d;
 }
 
 #cover-text, #covertext h2 {
        color: rgba(231, 104, 13, 1);
+       text-shadow: 3px 3px 6px #b63a0e;
 }
 
 #hero-image {
@@ -55,17 +55,21 @@ animation-fill-mode: forwards;
 }
 
 #cover-text {
-       font-size: 110%;
+       font-size: 40px;
        font-family: italianno;
-       text-transform: uppercase;
        letter-spacing: 4px;
-       width: 1000px;
-       height: 50px;
+
+       width: 600px;
+       height: 200px;
+
        padding-left: 10px;
+
        background-color: rgba(0, 16, 26, .7);
-       right: 150px;
-       bottom: 150px;
+
        position: absolute;
+
+       top: 50%;
+       left: 52%;
 }
 
 
