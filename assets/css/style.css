@@ -72,6 +72,19 @@ animation-fill-mode: forwards;
        left: 52%;
 }
 
+/*Middle content paragraph*/
+
+#middle-content {
+
+       font-family: italianno;
+       font-size: 50px;
+       text-align: center;
+
+       color: #00101a;
+       background-color: #e7680d;
+       padding: 30px;
+       width: 100%;
+}
 
 /* Navigation Bar */
 
