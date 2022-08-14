@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Italianno&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=Special+Elite&display=swap');
 
 body{
        background-image: url(/assets/img/medium-fire-photo-1920\ x\ 2400.jpg);
@@ -8,7 +8,7 @@ body{
 /*Logo*/
 
 #logo {
-       font-family: Homemade Apple, Arial;
+       font-family: Rubik Burned, Arial;
        font-size: 50px;
        color: #e7680d;
        padding: 30px;
@@ -56,11 +56,11 @@ animation-fill-mode: forwards;
 
 #cover-text {
        font-size: 40px;
-       font-family: italianno;
+       font-family: Special Elite;
        letter-spacing: 4px;
 
        width: 600px;
-       height: 200px;
+       height: 300px;
 
        padding-left: 10px;
 
@@ -68,7 +68,7 @@ animation-fill-mode: forwards;
 
        position: absolute;
 
-       top: 50%;
+       top: 45%;
        left: 52%;
 }
 
@@ -76,7 +76,7 @@ animation-fill-mode: forwards;
 
 #middle-content {
 
-       font-family: italianno;
+       font-family: Special Elite;
        font-size: 50px;
        text-align: center;
 
@@ -103,7 +103,7 @@ animation-fill-mode: forwards;
 
 .nav-bar li a {
        color: #e7680d;
-       font-family: Italianno;
+       font-family: Special Elite;
        font-size: 35px;
        float: right;
        text-align: center;
@@ -176,9 +176,9 @@ img {
 .text {
        background-color: #e7680d;
        color: #251319;
-       font-size: 25px;
+       font-size: 20px;
        padding: 16px 32px;
-       font-family: lobster;
+       font-family: Special Elite;
        text-decoration: none;
 }
 
@@ -233,7 +233,7 @@ footer {
 .social-links li {
        display: inline;
        color: #e7680d;
-       font-family: Homemade Apple, Arial;
+       font-family: Special Elite;
        font-size: large;
 }
 
@@ -264,7 +264,7 @@ input[type=text], input[type=email], select, textarea {
 }
 
 button[type=submit] {
-       font-family: italianno;
+       font-family: Special Elite;
        font-size: 30px;
        background-color: #251319;
        color: #e7680d;
@@ -288,15 +288,16 @@ button[type=submit]:hover {
 }
 
  .fname, .lname, .email, #comment {
-           font-family: italianno;
+       font-family: Special Elite;
            font-size: xx-large;
            color: #e7680d;
 }
 
 .container h2 {
-       font-family: italianno;
-           font-size: 40px;
-           color: #e7680d;
+
+       font-family: Special Elite;
+       font-size: 40px;
+       color: #e7680d;
 }
 
 /* Media Queries */
