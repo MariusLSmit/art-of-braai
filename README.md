@@ -6,48 +6,65 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 ### Navigation Bar
 
-screenshot
+![Navigation bar](../art-of-braai/assets/img/navbar-screenshot.png)
 
 * Contains the links to the Home, Video and Contact pages.
 * This will assist with easy navigation between pages.
 
 ### Logo
 
-screenshot
+![Logo](../art-of-braai/assets/img/logo-screenshot.png)
 
 * Logo has been placed on the right hand side.
 
-### Header
+### Hero image
 
-screenshot
+![alt text](../art-of-braai/assets/img/hero-image-screenshot.png)
 
-* The header consists of a bar that describes what the website is used for and gives more information on what is used.
+* The header consists of a hero image with a text block.
+* This a zoom when the page opens.
+
+### Home page middle content
+
+![alt text](../art-of-braai/assets/img/middle-content-screenshot.png)
+
+* This is a section that give more information about the page.
 
 ### 3 Clickable images
 
-screenshot
+![alt text](../art-of-braai/assets/img/clickable-image-1.png)
+<br><br>
+![alt text](../art-of-braai/assets/img/clickable-image-2.png)
+<br><br>
+![alt text](../art-of-braai/assets/img/clickable-image-3.png)
+<br><br>
 
 * There are 3 images displayed
-* Each image is clickable and take you to the next video page.
-* Each image also indicates an important step in the process. 
+* Each image is clickable and takes you to the next video page.
+* Each image also indicates an important step in the process and when clicked takes you to the designated video tutorial. 
 
-### Footer
+### Footer 
 
-screenshot
+![alt text](../art-of-braai/assets/img/social-links-screenshot.png)
 
 * The footer contains 4 links to popular social media websites.
 * Each clickable link has an icon and takes you to a blank page.
 
 ### Video section
 
-screenshot
+![alt text](../art-of-braai/assets/img/ytvideo-1-screenshot.png)
+<br><br>
+![alt text](../art-of-braai/assets/img/ytvideo-2-screenshot.png)
+<br><br>
+![alt text](../art-of-braai/assets/img/ytvideo-3-screenshot.png)
+<br><br>
 
 * You are taken to this page when you click one of the images.
 * This is a youtube video player with playback tools and a playlist of the 3 videos.
 
 ### Contact Us form
 
-screenshot
+![alt text](../art-of-braai/assets/img/contact-form-screenshot.png)
 
 * The contact form will be helpfull for questions and assistance.
 * This has a First name, Last name and email address section but also a comment section for a full message.
@@ -72,9 +89,9 @@ Page 3 (Contact Page)
 
 <img SRC="/workspace/art-of-braai/assets/img/Page 2 - Mobile.png">
 
-## UX/UI
-
 ## Testing
+
+## UX/UI
 
 ## Deployment
 
