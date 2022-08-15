@@ -404,6 +404,15 @@ button[type=submit]:hover {
        text-align: center;
    }
 
+   .fname, .lname, .email, #comment {
+       font-size: x-large;
+   }
+
+   button[type=submit] {
+       
+       font-size: 25px;
+   }
+
 }
 
 /* Tablets (600px and up) */
