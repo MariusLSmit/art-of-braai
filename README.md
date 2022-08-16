@@ -6,31 +6,53 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 ## Navigation Bar
 
-![Navigation bar](../art-of-braai/assets/img/navbar-screenshot.png)
-
 * Contains the links to the Home, Video and Contact pages.
 * This will assist with easy navigation between pages.
 
-## Logo
+<br>
 
-![Logo](../art-of-braai/assets/img/logo-screenshot.png)
+![Navigation bar](../art-of-braai/assets/img/navbar-screenshot.png)
+
+
+
+## Logo
 
 * Logo has been placed on the right hand side.
 
-## Hero image
+<br>
 
-![alt text](../art-of-braai/assets/img/hero-image-screenshot.png)
+![Logo](../art-of-braai/assets/img/logo-screenshot.png)
+
+
+
+## Hero image
 
 * The header consists of a hero image with a text block.
 * This a zoom when the page opens.
 
-## Home page middle content
+<br>
 
-![alt text](../art-of-braai/assets/img/middle-content-screenshot.png)
+![alt text](../art-of-braai/assets/img/hero-image-screenshot.png)
+
+
+
+## Home page middle content
 
 * This is a section that give more information about the page.
 
+<br>
+
+![alt text](../art-of-braai/assets/img/middle-content-screenshot.png)
+
+
+
 ## 3 Clickable images
+
+* There are 3 images displayed
+* Each image is clickable and takes you to the next video page.
+* Each image also indicates an important step in the process and when clicked takes you to the designated video tutorial.
+
+<br>
 
 ![alt text](../art-of-braai/assets/img/clickable-image-1.png)
 <br><br>
@@ -39,18 +61,25 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 ![alt text](../art-of-braai/assets/img/clickable-image-3.png)
 <br><br>
 
-* There are 3 images displayed
-* Each image is clickable and takes you to the next video page.
-* Each image also indicates an important step in the process and when clicked takes you to the designated video tutorial. 
+ 
 
 ## Footer 
-
-![alt text](../art-of-braai/assets/img/social-links-screenshot.png)
 
 * The footer contains 4 links to popular social media websites.
 * Each clickable link has an icon and takes you to a blank page.
 
+<br>
+
+![alt text](../art-of-braai/assets/img/social-links-screenshot.png)
+
+
+
 ## Video section
+
+* You are taken to this page when you click one of the images.
+* This is a youtube video player with playback tools and a playlist of the 3 videos.
+
+<br>
 
 ![alt text](../art-of-braai/assets/img/ytvideo-1-screenshot.png)
 <br><br>
@@ -59,35 +88,25 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 ![alt text](../art-of-braai/assets/img/ytvideo-3-screenshot.png)
 <br><br>
 
-* You are taken to this page when you click one of the images.
-* This is a youtube video player with playback tools and a playlist of the 3 videos.
+
 
 ## Contact Us form
-
-![alt text](../art-of-braai/assets/img/contact-form-screenshot.png)
 
 * The contact form will be helpfull for questions and assistance.
 * This has a First name, Last name and email address section but also a comment section for a full message.
 
-## Wireframes
 <br>
+
+![alt text](../art-of-braai/assets/img/contact-form-screenshot.png)
+
+## Wireframes
+
 Page 1 (Home Page)
-
-<img src="/workspace/art-of-braai/assets/img/Page 1 - Mobile.png">
-
-<img src="/workspace/art-of-braai/assets/img/Page 1 - Mobile.png">
 <br>
 Page 2 (Video Page)
 <br>
-<img src="/workspace/art-of-braai/assets/img/Page 2 - Desktop.png">
-
-<img src="/workspace/art-of-braai/assets/img/Page 2 - Mobile.png">
-<br>
 Page 3 (Contact Page)
 <br>
-<img src="/workspace/art-of-braai/assets/img/Page 2 - Mobile.png">
-
-<img SRC="/workspace/art-of-braai/assets/img/Page 2 - Mobile.png">
 
 # Testing
 
@@ -95,30 +114,43 @@ Page 3 (Contact Page)
 
 * HTML
 
-screenshot
+![alt text](../art-of-braai/assets/img/Screenshot%20-%20html-pass-1.png)
+![alt text](../art-of-braai/assets/img/html-error-p2.png)
+![alt text](../art-of-braai/assets/img/html-error-p3.png)
 <br>
-      - 3 errors were returned where a heading was empty and main element was used twice.
-      <br>
-      - This was fixed by removing the heading and changing it to section elements.
-      - This was done through W3C offical validator
+
 * CSS
 
-screenshot
+![alt text](../art-of-braai/assets/img/Screenshot-w3sCss.png)
 <br>
       - No errors were returned
       - This was done with (jigsaw) offical validator
 
+## Bugs
+
+- Page 2 - Form element had to be changed to figure as it was not the right scemantic element used and the form error was caused by not adding the same value to the id and both were simple fixes.
+
+- Page 3 - There was a frameborder issue  and was a quick fix by removing it from the html code and adding the same to css. 
+         - With the video container issue I was not using the element and switched it to a figure to resolve the issue.
+
 ## Responsiveness
+
+* Responsiveness has been tested for 3 screen types on chrome devtools.
+
++ Mobile screens - 600px and down
++ Tablets - 600px and up 
++ Desktop and larger screens - 992px and up
 
 ## Lighthouse testing
 
-screenshot-p1
+Page 1 ![Page 1](../art-of-braai/assets/img/page1-lighthouse.png)
 
-screenshot-p2
+Page 2 ![Page 2](../art-of-braai/assets/img/page2-lighthouse.png)
 
-screenshot-p3
+Page 3 ![Page 3](../art-of-braai/assets/img/page3-lighthouse.png)
 
 ## Unfixed Bugs
+
 
 # UX/UI
 
@@ -128,28 +160,33 @@ screenshot-p3
 
 # Credits
 
-*  - Instruction on how to use Iframes was take from [iframe tutorial W3Schools](https://www.w3schools.com/html/html_iframe.asp "")
+* Instruction on how to use Iframes was take from <br> [iframe Tutorial W3Schools](https://www.w3schools.com/html/html_iframe.asp "")
 
-* https://www.youtube.com/watch?v=X4t0JxiBeO0 - iframe responsive
+* iframe responsive <br> [responsive iframe](https://www.youtube.com/watch?v=X4t0JxiBeO0)
 
-* https://www.w3schools.com/css/css3_images.asp - image hover overlay
+* image hover overlay <br> [Image hover](https://www.w3schools.com/css/css3_images.asp) 
 
-* https://www.w3schools.com/css/css_form.asp - contact form
+* Instruction on how to create contact form  <br> [How to create contact form](https://www.w3schools.com/howto/howto_css_contact_form.asp)<br>
 
-* Icons in the footer are from font awesome - https://fontawesome.com/
+* Icons in the footer are from font awesome <br> [Font awesome](https://fontawesome.com/)
 
-* fonts - https://fonts.google.com/
+* Fonts <br> [Google Fonts](https://fonts.google.com/)
 
 ## Content
 
 The photos used for the clickable images are from https://www.dreamstime.com/
 
-The photo used for the hero image was take by myself Marius Smit.
+The photo used for the hero image was taken by myself Marius Smit.
 
-The background image was take from https://media.gettyimages.com/photos/lit-bonfire-at-night-during-easter-picture-id552787223?k=20&m=552787223&s=612x612&w=0&h=YPAcpFuJYMfmjYvsfJ3eiWlrByLpWulwHZpoZT4lYig= by Christopher Burns 
+The background image was take from [Getty images - Christopher Burns](https://media.gettyimages.com/photos/lit-bonfire-at-night-during-easter-picture-id552787223?k=20&m=552787223&s=612x612&w=0&h=YPAcpFuJYMfmjYvsfJ3eiWlrByLpWulwHZpoZT4lYig=)  
 
 ## Media
 
 All the above mentioned is used for educational purposes.
 
 # Future features
+
+*I would like to change the hero image into a slideshow of more self taken images.
+
+*I would also like to add in more sections for requirements when it comes to the videos provided.
+
