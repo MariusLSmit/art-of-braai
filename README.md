@@ -1,5 +1,7 @@
 # Art of braai
 
+![Website mockup](../art-of-braai/assets/img/mockup%20screenshot.png)
+
 Art of braai is a website that not only teaches you, but also inspires you to make a lovely and tradional boerewors roll. This is basically a South African "Hot dog" which consists of a beef sausage, bread roll and relish and all made the traditional way. "Braai" is also the South African term for barbeque and this would be the traditional way to cook the sausage. View the live site here "Insert site link here".
 
 ## Features
