@@ -2,9 +2,9 @@
 
 Art of braai is a website that not only teaches you, but also inspires you to make a lovely and tradional boerewors roll. This is basically a South African "Hot dog" which consists of a beef sausage, bread roll and relish and all made the traditional way. "Braai" is also the South African term for barbeque and this would be the traditional way to cook the sausage. View the live site here "Insert site link here".
 
-# Features
+## Features
 
-## Navigation Bar
+### Navigation Bar
 
 * Contains the links to the Home, Video and Contact pages.
 * This will assist with easy navigation between pages.
@@ -15,9 +15,10 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 
 
-## Logo
+### Logo
 
 * Logo has been placed on the right hand side.
+* Text shadow has been added to give a hot effect to the text.
 
 <br>
 
@@ -25,10 +26,10 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 
 
-## Hero image
+### Hero image - Home Page
 
 * The header consists of a hero image with a text block.
-* This a zoom when the page opens.
+* This image has a zoom effect when the page opens.
 
 <br>
 
@@ -36,7 +37,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 
 
-## Home page middle content
+### Home page middle content
 
 * This is a section that give more information about the page.
 
@@ -46,7 +47,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 
 
-## 3 Clickable images
+### 3 Clickable images - Home Page
 
 * There are 3 images displayed
 * Each image is clickable and takes you to the next video page.
@@ -63,7 +64,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
  
 
-## Footer 
+### Footer 
 
 * The footer contains 4 links to popular social media websites.
 * Each clickable link has an icon and takes you to a blank page.
@@ -74,7 +75,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 
 
-## Video section
+### Video section - Video page
 
 * You are taken to this page when you click one of the images.
 * This is a youtube video player with playback tools and a playlist of the 3 videos.
@@ -90,7 +91,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 
 
-## Contact Us form
+### Contact Us form - Contact page
 
 * The contact form will be helpfull for questions and assistance.
 * This has a First name, Last name and email address section but also a comment section for a full message.
@@ -99,20 +100,13 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 ![alt text](../art-of-braai/assets/img/contact-form-screenshot.png)
 
-## Wireframes
+## Testing
 
-Page 1 (Home Page)
-<br>
-Page 2 (Video Page)
-<br>
-Page 3 (Contact Page)
-<br>
-
-# Testing
-
-## Validator testing 
+### Validator testing 
 
 * HTML
+
++ This was done with [W3C markup validator](https://validator.w3.org/)
 
 ![alt text](../art-of-braai/assets/img/Screenshot%20-%20html-pass-1.png)
 ![alt text](../art-of-braai/assets/img/html-error-p2.png)
@@ -121,19 +115,18 @@ Page 3 (Contact Page)
 
 * CSS
 
-![alt text](../art-of-braai/assets/img/Screenshot-w3sCss.png)
+- This was done with [(jigsaw) offical validator](../art-of-braai/assets/img/Screenshot-w3sCss.png)
 <br>
       - No errors were returned
-      - This was done with (jigsaw) offical validator
 
-## Bugs
+### Bugs
 
 - Page 2 - Form element had to be changed to figure as it was not the right scemantic element used and the form error was caused by not adding the same value to the id and both were simple fixes.
 
 - Page 3 - There was a frameborder issue  and was a quick fix by removing it from the html code and adding the same to css. 
          - With the video container issue I was not using the element and switched it to a figure to resolve the issue.
 
-## Responsiveness
+### Responsiveness
 
 * Responsiveness has been tested for 3 screen types on chrome devtools.
 
@@ -141,7 +134,7 @@ Page 3 (Contact Page)
 + Tablets - 600px and up 
 + Desktop and larger screens - 992px and up
 
-## Lighthouse testing
+### Lighthouse testing
 
 Page 1 ![Page 1](../art-of-braai/assets/img/page1-lighthouse.png)
 
@@ -149,19 +142,45 @@ Page 2 ![Page 2](../art-of-braai/assets/img/page2-lighthouse.png)
 
 Page 3 ![Page 3](../art-of-braai/assets/img/page3-lighthouse.png)
 
-## Unfixed Bugs
+### Unfixed Bugs
 
 * When doing mobile testing the Navbar seems to unsort itself into the wrong direction and the social links darken due to screen sizing.
 
-# UX/UI
+## UX/UI
 
-# Deployment
+### Site goal
 
-## Deployment to Github pages
+The goal of Art of braai is to teach people that are not native to South Africa that there is more than just having a barbeque. The goal is to turn a barbeque into a braai which is the native word for it and the reason why a boerewors roll is chosen which is like a hotdog, is because it is probably the easiest way to make a nice meal but also enjoy the moment with the people surrounding you and that is the true South African way.
 
-# Credits
+### Design choices
 
-## Content
+I chose a fire background because a flame has so many different colours so it game me a nice colour pallet that I could use around the rest of the website. I also feel that a flame is never the same and always attracts people no matter where it is and I hope this does the same for the site.
+
+## Deployment
+
+### Gitpod
+
+This site was made using gitpod and then deployed to Github pages.
+
+* On gitpod the following commands were used:
+
++ Git add .  -  to add file to staging area.
++ Git commit -m "message"  -  This command was used to commit changes to the local repository. 
++ Git push  -  This command was used to push commited content to github and was the final step.
+
+### Deployment to Github pages with steps
+
+- Deployment to GitHub pages was done with the following steps:
++ When in the GitHub repository, click on to the Settings tab
++ The page will refresh, then on the menu to the left select 'Pages'
++ Then from the source section drop-down menu, select the Branch and main
++ Click the 'Save' button
++ When this is done a live link will be displayed and a green banner will be displayed.
+
+
+## Credits
+
+### Content
 
 * Instruction on how to use Iframes was taken from <br> [iframe Tutorial W3Schools](https://www.w3schools.com/html/html_iframe.asp "")
 
@@ -175,23 +194,31 @@ Page 3 ![Page 3](../art-of-braai/assets/img/page3-lighthouse.png)
 
 * Fonts <br> [Google Fonts](https://fonts.google.com/)
 
-## Media
+* Color pallet <br> [Coolers](https://coolors.co/)
 
-The photos used for the clickable images are from https://www.dreamstime.com/
+* Image resizing <br> [ilobeimg](https://www.iloveimg.com/resize-image)
 
-The photo used for the hero image was taken by myself Marius Smit.
+* Image compress <br> [TinyPNG](https://tinypng.com/)
 
-The background image was taken from [Getty images - Christopher Burns](https://media.gettyimages.com/photos/lit-bonfire-at-night-during-easter-picture-id552787223?k=20&m=552787223&s=612x612&w=0&h=YPAcpFuJYMfmjYvsfJ3eiWlrByLpWulwHZpoZT4lYig=) 
+* Multi device mockup <br> [techsini](https://techsini.com/multi-mockup/index.php)
 
-Youtube video 1 [How to make your own boerewors](https://www.youtube.com/embed/dvwdo8bJ2qU) is from Crown Nationals page.s
+### Media
 
-Youtube video 2 [How to braai boerewors](https://www.youtube.com/embed/4uGWf-NDrkI) is from Wines of South Africa's page.
+- The photos used for the clickable images are from https://www.dreamstime.com/
 
-Youtube video 3 [How to relish boerewors](https://www.youtube.com/embed/6HlMiu_SQlY)  is form The Braai Guys page.
+- The photo used for the hero image was taken by myself Marius Smit.
 
-All the above mentioned is used for educational purposes.
+- The background image was taken from [Getty images - Christopher Burns](https://media.gettyimages.com/photos/lit-bonfire-at-night-during-easter-picture-id552787223?k=20&m=552787223&s=612x612&w=0&h=YPAcpFuJYMfmjYvsfJ3eiWlrByLpWulwHZpoZT4lYig=) 
 
-# Future features
+- Youtube video 1 [How to make your own boerewors](https://www.youtube.com/embed/dvwdo8bJ2qU) is from Crown Nationals page.s
+
+- Youtube video 2 [How to braai boerewors](https://www.youtube.com/embed/4uGWf-NDrkI) is from Wines of South Africa's page.
+
+- Youtube video 3 [How to relish boerewors](https://www.youtube.com/embed/6HlMiu_SQlY)  is form The Braai Guys page.
+
+- All the above mentioned is used for educational purposes.
+
+## Future features
 
 * I would like to change the hero image into a slideshow of more self taken images.
 
