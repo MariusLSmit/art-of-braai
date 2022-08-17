@@ -151,6 +151,7 @@ Page 3 ![Page 3](../art-of-braai/assets/img/page3-lighthouse.png)
 
 ## Unfixed Bugs
 
+* When doing mobile testing the Navbar seems to unsort itself into the wrong direction and the social links darken due to screen sizing.
 
 # UX/UI
 
