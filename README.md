@@ -160,33 +160,38 @@ Page 3 ![Page 3](../art-of-braai/assets/img/page3-lighthouse.png)
 
 # Credits
 
-* Instruction on how to use Iframes was take from <br> [iframe Tutorial W3Schools](https://www.w3schools.com/html/html_iframe.asp "")
+## Content
 
-* iframe responsive <br> [responsive iframe](https://www.youtube.com/watch?v=X4t0JxiBeO0)
+* Instruction on how to use Iframes was taken from <br> [iframe Tutorial W3Schools](https://www.w3schools.com/html/html_iframe.asp "")
 
-* image hover overlay <br> [Image hover](https://www.w3schools.com/css/css3_images.asp) 
+* iframe responsive was used from <br> [responsive iframe](https://www.youtube.com/watch?v=X4t0JxiBeO0)
 
-* Instruction on how to create contact form  <br> [How to create contact form](https://www.w3schools.com/howto/howto_css_contact_form.asp)<br>
+* image hover overlay was used from <br> [Image hover](https://www.w3schools.com/css/css3_images.asp) 
+
+* Instruction on how to create contact form used from W3schools<br>[How to create contact form on ](https://www.w3schools.com/howto/howto_css_contact_form.asp)<br>
 
 * Icons in the footer are from font awesome <br> [Font awesome](https://fontawesome.com/)
 
 * Fonts <br> [Google Fonts](https://fonts.google.com/)
 
-## Content
+## Media
 
 The photos used for the clickable images are from https://www.dreamstime.com/
 
 The photo used for the hero image was taken by myself Marius Smit.
 
-The background image was take from [Getty images - Christopher Burns](https://media.gettyimages.com/photos/lit-bonfire-at-night-during-easter-picture-id552787223?k=20&m=552787223&s=612x612&w=0&h=YPAcpFuJYMfmjYvsfJ3eiWlrByLpWulwHZpoZT4lYig=)  
+The background image was taken from [Getty images - Christopher Burns](https://media.gettyimages.com/photos/lit-bonfire-at-night-during-easter-picture-id552787223?k=20&m=552787223&s=612x612&w=0&h=YPAcpFuJYMfmjYvsfJ3eiWlrByLpWulwHZpoZT4lYig=) 
 
-## Media
+Youtube video 1 [How to make your own boerewors](https://www.youtube.com/embed/dvwdo8bJ2qU) is from Crown Nationals page.s
+
+Youtube video 2 [How to braai boerewors](https://www.youtube.com/embed/4uGWf-NDrkI) is from Wines of South Africa's page.
+
+Youtube video 3 [How to relish boerewors](https://www.youtube.com/embed/6HlMiu_SQlY)  is form The Braai Guys page.
 
 All the above mentioned is used for educational purposes.
 
 # Future features
 
-*I would like to change the hero image into a slideshow of more self taken images.
+* I would like to change the hero image into a slideshow of more self taken images.
 
-*I would also like to add in more sections for requirements when it comes to the videos provided.
-
+* I would also like to add in more sections for requirements when it comes to the videos provided.
