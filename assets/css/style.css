@@ -453,7 +453,7 @@ button[type=submit] {
               text-align: center;
           }
        
-       .fname, .lname, .email, #comment {
+       .fname, .lname, .email, #subject {
               font-size: x-large;
           }
        
