@@ -1,6 +1,6 @@
 # Art of braai
 
-![Website mockup](../art-of-braai/assets/img/mockup%20screenshot.png)
+![Website mockup](/assets/img/mockup%20screenshot.png)
 
 Art of braai is a website that not only teaches you, but also inspires you to make a lovely and tradional boerewors roll. This is basically a South African "Hot dog" which consists of a beef sausage, bread roll and relish and all made the traditional way. "Braai" is also the South African term for barbeque and this would be the traditional way to cook the sausage. View the live site here "Insert site link here".
 
@@ -13,7 +13,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![Navigation bar](../art-of-braai/assets/img/navbar-screenshot.png)
+![Navigation bar](/assets/img/navbar-screenshot.png)
 
 
 
@@ -24,7 +24,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![Logo](../art-of-braai/assets/img/logo-screenshot.png)
+![Logo](/assets/img/logo-screenshot.png)
 
 
 
@@ -35,7 +35,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![alt text](../art-of-braai/assets/img/hero-image-screenshot.png)
+![alt text](/assets/img/hero-image-screenshot.png)
 
 
 
@@ -45,7 +45,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![alt text](../art-of-braai/assets/img/middle-content-screenshot.png)
+![alt text](/assets/img/middle-content-screenshot.png)
 
 
 
@@ -57,11 +57,11 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![alt text](../art-of-braai/assets/img/clickable-image-1.png)
+![alt text](/assets/img/clickable-image-1.png)
 <br><br>
-![alt text](../art-of-braai/assets/img/clickable-image-2.png)
+![alt text](/assets/img/clickable-image-2.png)
 <br><br>
-![alt text](../art-of-braai/assets/img/clickable-image-3.png)
+![alt text](/assets/img/clickable-image-3.png)
 <br><br>
 
  
@@ -73,7 +73,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![alt text](../art-of-braai/assets/img/social-links-screenshot.png)
+![alt text](/assets/img/social-links-screenshot.png)
 
 
 
@@ -84,11 +84,11 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![alt text](../art-of-braai/assets/img/ytvideo-1-screenshot.png)
+![alt text](/assets/img/ytvideo-1-screenshot.png)
 <br><br>
-![alt text](../art-of-braai/assets/img/ytvideo-2-screenshot.png)
+![alt text](/assets/img/ytvideo-2-screenshot.png)
 <br><br>
-![alt text](../art-of-braai/assets/img/ytvideo-3-screenshot.png)
+![alt text](/assets/img/ytvideo-3-screenshot.png)
 <br><br>
 
 
@@ -100,7 +100,7 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 <br>
 
-![alt text](../art-of-braai/assets/img/contact-form-screenshot.png)
+![alt text](/assets/img/contact-form-screenshot.png)
 
 ## Testing
 
@@ -110,14 +110,14 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 + This was done with [W3C markup validator](https://validator.w3.org/)
 
-![alt text](../art-of-braai/assets/img/Screenshot%20-%20html-pass-1.png)
-![alt text](../art-of-braai/assets/img/html-error-p2.png)
-![alt text](../art-of-braai/assets/img/html-error-p3.png)
+![alt text](/assets/img/Screenshot%20-%20html-pass-1.png)
+![alt text](/assets/img/html-error-p2.png)
+![alt text](/assets/img/html-error-p3.png)
 <br>
 
 * CSS
 
-- This was done with [(jigsaw) offical validator](../art-of-braai/assets/img/Screenshot-w3sCss.png)
+- This was done with [(jigsaw) offical validator](/assets/img/Screenshot-w3sCss.png)
 <br>
       - No errors were returned
 
@@ -138,11 +138,11 @@ Art of braai is a website that not only teaches you, but also inspires you to ma
 
 ### Lighthouse testing
 
-Page 1 ![Page 1](../art-of-braai/assets/img/page1-lighthouse.png)
+Page 1 ![Page 1](/assets/img/page1-lighthouse.png)
 
-Page 2 ![Page 2](../art-of-braai/assets/img/page2-lighthouse.png)
+Page 2 ![Page 2](/assets/img/page2-lighthouse.png)
 
-Page 3 ![Page 3](../art-of-braai/assets/img/page3-lighthouse.png)
+Page 3 ![Page 3](/assets/img/page3-lighthouse.png)
 
 ### Unfixed Bugs
 
