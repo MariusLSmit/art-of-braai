@@ -316,7 +316,7 @@ button[type=submit]:hover {
        margin-top: 20px;
 }
 
- .fname, .lname, .email, #comment {
+ .fname, .lname, .email, .subject {
        font-family: Special Elite;
            font-size: xx-large;
            color: #e7680d;
