@@ -184,6 +184,8 @@ This site was made using gitpod and then deployed to Github pages.
 
 ### Content
 
+* Hero Image and hover was take from Code institute's Love running project in Diploma in Software Development.
+
 * Instruction on how to use Iframes was taken from <br> [iframe Tutorial W3Schools](https://www.w3schools.com/html/html_iframe.asp "")
 
 * iframe responsive was used from <br> [responsive iframe](https://www.youtube.com/watch?v=X4t0JxiBeO0)
@@ -203,6 +205,8 @@ This site was made using gitpod and then deployed to Github pages.
 * Image compress <br> [TinyPNG](https://tinypng.com/)
 
 * Multi device mockup <br> [techsini](https://techsini.com/multi-mockup/index.php)
+
+* Text Shadow idea was used from [w3schools-textshadow](https://www.w3schools.com/css/css_text_shadow.asp)
 
 ### Media
 
