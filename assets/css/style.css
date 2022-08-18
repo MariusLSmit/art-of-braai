@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=Special+Elite&display=swap');
 
 body{
-       background-image: url(/assets/img/medium-fire-photo-1920\ x\ 2400.jpg);
+       background-image: url(../img/medium-fire-photo-1920\ x\ 2400.jpg);
        background-size: cover;
 }
 
